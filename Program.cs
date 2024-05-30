@@ -9,7 +9,7 @@ using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
 using Newtonsoft.Json.Linq;
 
-var botClient = new TelegramBotClient("{You_token}");
+var botClient = new TelegramBotClient("7416375639:AAEgE4f3-uqfw-EQAGLWCnBUVLlToiFs4VM");
 
 using CancellationTokenSource cts = new();
 
